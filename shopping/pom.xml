@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<!-- 配置版本信息 后期的依赖中直接引用 ${spring.version} -->
 	<properties>
-		<spring.version>5.1.9.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<mybatis.version>3.4.6</mybatis.version>
 	</properties>
 	<dependencies>
